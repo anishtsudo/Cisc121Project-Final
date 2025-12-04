@@ -1,0 +1,4 @@
+space:
+  app_file: app.py
+  sdk: streamlit
+  python_version: "3.10"
