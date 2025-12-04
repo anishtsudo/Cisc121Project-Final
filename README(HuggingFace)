@@ -1,0 +1,12 @@
+metadata
+title: Bubble Sort
+emoji: 🚀
+colorFrom: red
+colorTo: red
+sdk: streamlit
+app_file: app.py
+tags:
+  - streamlit
+pinned: false
+short_description: Interactive Bubble Sort Visualizer
+sdk_version: 1.51.0
