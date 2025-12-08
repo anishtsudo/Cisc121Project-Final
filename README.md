@@ -25,7 +25,9 @@
 <img width="943" height="490" alt="image" src="https://github.com/user-attachments/assets/e2fee9bc-563d-4a8f-8eb5-4b9b3b4aad4a" />
 
 
+**Why I chose Bubble Sort**
 
+I chose bubble sort because I liked how it sounded and I wasn't that confident I could do it so I tried anyways
 
 **Problem Breakdown**
 
